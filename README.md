@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="157" src="https://i.imgflip.com/4dbbj.jpg"  />
+<img align="right" height="157" src="https://steamuserimages-a.akamaihd.net/ugc/2435957270664266320/C45DD9DF26F77C84603807576B06190060C9A480/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
