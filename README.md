@@ -8,9 +8,6 @@
         </td>
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
-                
-        𝕬𝖒𝖇𝖊𝖗 𝕻𝖑𝖔𝖊̂𝖓𝖈𝖎𝖔 
-    
 </p>                                                                                                                            
                                                                                                   
                                                                                                     
